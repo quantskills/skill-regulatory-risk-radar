@@ -7,7 +7,7 @@ description: >
   equity pledge (质押), placarding (举牌), share freezes (股权冻结), trading
   halts (停牌) and ST status. Scans the pool, scores each name, and outputs a
   graded risk list with sourced evidence.
-license: GPL-3.0
+license: GPL-3.0-only
 category: 工具
 metadata:
   organization: QuantSkills
