@@ -1,5 +1,7 @@
 # skill-regulatory-risk-radar
 
+[English](README.en.md)
+
 A股合规/监管风险雷达 —— 扫描持仓/自选股票池，聚合**限售解禁、股东增减持、股权质押、举牌、股权冻结、停牌、ST** 七类风险源，逐票打分分级，输出带证据来源的风险清单。
 
 > QuantSkills 组织技能 · 数据源 Pandadata · 仅供研究/风控参考，不构成投资建议。
@@ -57,3 +59,7 @@ examples/      run_demo.py · sample_data/
 ## 免责
 
 数据以公告日期为准，非实时。本工具仅用于研究与风险监控方法论演示，不构成任何投资建议。
+
+## 许可证
+
+GPL-3.0-only，详见 [LICENSE](LICENSE)。
