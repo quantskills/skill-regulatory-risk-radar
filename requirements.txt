@@ -1,3 +1,4 @@
 # 合规风险雷达仅用标准库 + 可选 pandas；生产取数依赖 panda_data SDK
 # （由组织 skill-pandadata-api 提供，不在此强制安装）
 pandas>=1.5
+panda_data==1.0.6

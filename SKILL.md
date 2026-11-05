@@ -159,3 +159,7 @@ skill-regulatory-risk-radar/
 - `get_stock_daily` 的 `st=True` 才含 ST 股；停牌以 `trade_status != 0` 判定。
 - 网关模式返回行数受套餐配额限制，大股票池需分批取数。
 - 只做研究/风控参考，不构成投资建议。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
